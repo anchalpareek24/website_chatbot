@@ -83,7 +83,7 @@ Answer (Website-grounded)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/anchalpareek24/website_chatbot
 cd website_chatbot
 ```
 
